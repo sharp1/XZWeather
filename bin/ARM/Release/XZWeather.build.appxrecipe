@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YUI</Machine>
+    <WindowsUser>YUI</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>9cd3735a-2f89-49f2-803e-0f97d224dfb9</PackageIdentityName>
+    <PackageIdentityPublisher>CN=YUI</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\C#\XZWeather\XZWeather\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\0.png">
+      <PackagePath>3d_60\0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\1.png">
+      <PackagePath>3d_60\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\10.png">
+      <PackagePath>3d_60\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\11.png">
+      <PackagePath>3d_60\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\12.png">
+      <PackagePath>3d_60\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\13.png">
+      <PackagePath>3d_60\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\14.png">
+      <PackagePath>3d_60\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\15.png">
+      <PackagePath>3d_60\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\16.png">
+      <PackagePath>3d_60\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\17.png">
+      <PackagePath>3d_60\17.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\18.png">
+      <PackagePath>3d_60\18.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\19.png">
+      <PackagePath>3d_60\19.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\2.png">
+      <PackagePath>3d_60\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\20.png">
+      <PackagePath>3d_60\20.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\21.png">
+      <PackagePath>3d_60\21.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\22.png">
+      <PackagePath>3d_60\22.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\23.png">
+      <PackagePath>3d_60\23.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\24.png">
+      <PackagePath>3d_60\24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\25.png">
+      <PackagePath>3d_60\25.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\26.png">
+      <PackagePath>3d_60\26.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\27.png">
+      <PackagePath>3d_60\27.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\28.png">
+      <PackagePath>3d_60\28.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\29.png">
+      <PackagePath>3d_60\29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\3.png">
+      <PackagePath>3d_60\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\30.png">
+      <PackagePath>3d_60\30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\31.png">
+      <PackagePath>3d_60\31.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\32.png">
+      <PackagePath>3d_60\32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\33.png">
+      <PackagePath>3d_60\33.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\34.png">
+      <PackagePath>3d_60\34.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\35.png">
+      <PackagePath>3d_60\35.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\36.png">
+      <PackagePath>3d_60\36.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\37.png">
+      <PackagePath>3d_60\37.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\38.png">
+      <PackagePath>3d_60\38.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\4.png">
+      <PackagePath>3d_60\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\5.png">
+      <PackagePath>3d_60\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\6.png">
+      <PackagePath>3d_60\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\7.png">
+      <PackagePath>3d_60\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\8.png">
+      <PackagePath>3d_60\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\9.png">
+      <PackagePath>3d_60\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\3d_60\99.png">
+      <PackagePath>3d_60\99.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\6.jpg">
+      <PackagePath>Assets\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\XZWeather.dll">
+      <PackagePath>XZWeather.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\XZWeather.exe">
+      <PackagePath>XZWeather.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\C#\XZWeather\XZWeather\bin\ARM\Release\ilc\XZWeather.pdb">
+      <PackagePath>XZWeather.pdb</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\">
+      <Name>Microsoft.NET.Native.Framework.1.3</Name>
+      <Version>1.3.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.3, MinVersion = 1.3.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.3\1.3\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.3.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x64\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\">
+      <Name>Microsoft.NET.Native.Runtime.1.4</Name>
+      <Version>1.4.24201.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.4, MinVersion = 1.4.24201.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.4\1.4\.\AppX\x86\Microsoft.NET.Native.Runtime.1.4.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

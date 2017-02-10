@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="XZWeather.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XZWeather"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DataContext="{Binding img,RelativeSource={RelativeSource Self}}">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Vertical">
+            <StackPanel Margin="0,10" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Left">
+                <Button Content="新建磁贴" Click="Button_Click" Foreground="Blue"></Button>
+                <Button Content="删除磁贴" Click="Button_Click_1" Foreground="Red"></Button>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="城市:" FontSize="60"></TextBlock>
+                <TextBlock Text="{Binding results[0].location.name}" FontSize="60"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="温度:" FontSize="60"></TextBlock>
+                <TextBlock Text="{Binding results[0].now.temperature}" FontSize="60"></TextBlock>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding results[0].now.text}" FontSize="60"></TextBlock>
+                <Image Source="{Binding results[0].now.code}"></Image>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
